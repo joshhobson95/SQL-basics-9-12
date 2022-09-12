@@ -22,3 +22,9 @@
 --  where invoice_id=5;
 
 -- select * from invoice
+
+-- alter table invoice_line
+-- drop constraint invoice_line_invoice_id_fkey
+-- delete 
+-- from invoice 
+-- where invoice_id=1;
